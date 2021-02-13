@@ -1,6 +1,8 @@
 ### Richael Fernando 👋
 
-Amante das melhores tecnologias de desenvolvimento web e mobile.
+Lover of the best web and mobile development technologies.
+
+Backend / frontend developer at @movingpay
 
 [![Windard's github stats](https://github-readme-stats.vercel.app/api?username=rfnunes01&show_icons=true&theme=dark)](https://github.com/rfnunes01)
 
