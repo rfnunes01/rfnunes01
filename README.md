@@ -8,7 +8,7 @@ Backend / frontend developer at @movingpay
 ![](https://visitor-badge.laobi.icu/badge?page_id=rfnunes01.rfnunes01)&nbsp;&nbsp;&nbsp;
  [![Github](https://img.shields.io/github/followers/rfnunes01?label=Follow&style=social)](https://github.com/rfnunes01)
 
-![rfnunes01 github stats](https://github-readme-stats.vercel.app/api?username=rfnunes01&show_icons=true&theme=radical)
+![rfnunes01 github stats](https://github-readme-stats.vercel.app/api?username=rfnunes01&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfnunes01&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
