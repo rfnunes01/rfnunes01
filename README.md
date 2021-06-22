@@ -10,6 +10,13 @@ Backend / frontend developer at @movingpay
 
 ![rfnunes01 github stats](https://github-readme-stats.vercel.app/api?username=rfnunes01&show_icons=true&theme=dark)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfnunes01&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
