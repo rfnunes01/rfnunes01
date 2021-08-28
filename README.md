@@ -5,7 +5,7 @@ Lover of the best web and mobile development technologies.
 Backend / frontend developer at @movingpay
 
 # GitHub Statistics
-![](https://visitor-badge.laobi.icu/badge?page_id=rfnunes01.rfnunes01)&nbsp;&nbsp;&nbsp;
+ [![Github](https://visitor-badge.laobi.icu/badge?page_id=rfnunes01.rfnunes01)](https://github.com/rfnunes01)&nbsp;&nbsp;&nbsp;
  [![Github](https://img.shields.io/github/followers/rfnunes01?label=Follow&style=social)](https://github.com/rfnunes01)
 
 ![rfnunes01 github stats](https://github-readme-stats.vercel.app/api?username=rfnunes01&show_icons=true&theme=dark)
