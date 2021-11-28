@@ -9,9 +9,13 @@ Backend / frontend developer at @movingpay
  [![Github](https://img.shields.io/github/followers/rfnunes01?label=Follow&style=social)](https://github.com/rfnunes01)
 
  <a href="https://github.com/rfnunes01">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rfnunes01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfnunes01&layout=compact&&theme=dark" />
-
+ 
+ [![rfnunes01 github stats](https://github-readme-stats.vercel.app/api?username=rfnunes01&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfnunes01&layout=compact&theme=dark" />
+ 
+ <br><br>
+[![rfnunes01 github streak](https://github-readme-streak-stats.herokuapp.com/?user=rfnunes01&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+ 
 <br><br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
