@@ -10,10 +10,10 @@ Backend / frontend developer at @movingpay
 
  <a href="https://github.com/rfnunes01">
  
- [![rfnunes01 github stats](https://github-readme-stats.vercel.app/api?username=rfnunes01&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfnunes01&layout=compact&theme=dark" />
+ [![rfnunes01 github stats](https://github-readme-stats.vercel.app/api?username=rfnunes01&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  
- <br><br>
+ [![rfnunes01 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rfnunes01&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![rfnunes01 github streak](https://github-readme-streak-stats.herokuapp.com/?user=rfnunes01&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
  
 <br><br>
