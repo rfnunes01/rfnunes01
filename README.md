@@ -17,6 +17,7 @@ Backend and frontend developer
  <a href="https://github.com/rfnunes01">
  
  [![rfnunes01 github stats](https://github-readme-stats.vercel.app/api?username=rfnunes01&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![rfnunes01 github stats](https://github-readme-stats.vercel.app/api?username=rfnunes01)](https://github.com/anuraghazra/github-readme-stats)
  
  [![rfnunes01 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rfnunes01&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
