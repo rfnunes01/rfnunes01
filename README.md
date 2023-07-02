@@ -12,13 +12,12 @@ Backend and frontend developer
 
 # GitHub Statistics
  [![Github](https://visitor-badge.laobi.icu/badge?page_id=rfnunes01.rfnunes01)](https://github.com/rfnunes01)&nbsp;&nbsp;&nbsp;
- [![Github](https://img.shields.io/github/followers/rfnunes01?label=Follow&style=social)](https://github.com/rfnunes01)
+ [![Github](https://img.shields.io/github/followers/rfnunes01?label=Follow&style=social)](https://github.com/rfnunes01)&nbsp;&nbsp;&nbsp;
 
  <a href="https://github.com/rfnunes01">
+
+![Rfnunes01 GitHub stats](https://github-readme-stats.vercel.app/api?username=rfnunes01\&include_all_commits=true\&count_private=true\&show_icons=true\&theme=dark)
  
- [![rfnunes01 github stats](https://github-readme-stats.vercel.app/api?username=rfnunes01&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![rfnunes01 github stats](https://github-readme-stats.vercel.app/api?username=rfnunes01&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
- 
- [![rfnunes01 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rfnunes01&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![rfnunes01 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rfnunes01&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![rfnunes01 github streak](https://github-readme-streak-stats.herokuapp.com/?user=rfnunes01&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
