@@ -37,15 +37,19 @@ Ah, e sim, boto a mão até no Markdown, no bash, no webpack quebrando, e até n
 
 ---
 
-## 📊 GitHub Stats (agora com repositórios privados, bebê!)
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rfnunes01&show_icons=true&theme=dracula&count_private=true" width="100%" alt="GitHub Stats" />
-  <br /> <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfnunes01&layout=compact&theme=dracula" width="100%" alt="Top Langs" />
-  <br /> <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rfnunes01&theme=dracula&layout=compact" width="100%" alt="GitHub Streak" />
-</p>
+<table style="width:100%;border:none">
+  <tr>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=rfnunes01&show_icons=true&theme=dracula&count_private=true" width="100%" alt="GitHub Stats" /></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfnunes01&layout=compact&theme=dracula" width="100%" alt="Top Langs" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rfnunes01&theme=dracula&layout=compact" width="100%" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
