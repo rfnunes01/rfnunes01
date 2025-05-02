@@ -1,23 +1,58 @@
-### Olá, sou Richael Fernando 👋
+<h1 align="center">Fala, devs! Eu sou o Richael Fernando 👨‍💻</h1>
 
-Lover of the best web and mobile development technologies.
+<p align="center">
+  <em>FullStack Developer • Tech Addict • Builder of APIs, Fronts, Ferramentas e umas ideias meio malucas (mas que funcionam 😎)</em>
+</p>
 
-Backend and frontend developer
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+## 🚀 Sobre mim
 
+Sou um desenvolvedor FullStack apaixonado por resolver problemas reais com código limpo e eficiente. Curioso por natureza, sempre buscando aquela solução "fora da caixa" que entrega valor de verdade — com performance, segurança e uma pitada de ousadia técnica.
 
-# GitHub Statistics
- [![Github](https://visitor-badge.laobi.icu/badge?page_id=rfnunes01.rfnunes01)](https://github.com/rfnunes01)&nbsp;&nbsp;&nbsp;
- [![Github](https://img.shields.io/github/followers/rfnunes01?label=Follow&style=social)](https://github.com/rfnunes01)&nbsp;&nbsp;&nbsp;
+### 🧠 Stack do dia a dia:
+- **Backend**: Node.js (puro ou com AdonisJS), AWS Lambda, SQL cru com amor, MongoDB e Redis como se fossem poesia.
+- **Frontend**: React, TypeScript, SWR e tudo que ajude a entregar uma UI fluida e moderna.
+- **☁️ Infra & DevOps**: Docker
+- **📈 Dados & Relatórios**: Stream de Excel em partes, paginação por cursor com token seguro e consultas SQL que deixam DBA emocionado
 
- <a href="https://github.com/rfnunes01">
+Ah, e sim, boto a mão até no Markdown, no bash, no webpack quebrando, e até na documentação com migué bem feito 🤐
 
-![Rfnunes01 GitHub stats](https://github-readme-stats.vercel.app/api?username=rfnunes01\&include_all_commits=true\&count_private=true\&show_icons=true\&theme=dark)
- 
-[![rfnunes01 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rfnunes01&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![rfnunes01 github streak](https://github-readme-streak-stats.herokuapp.com/?user=rfnunes01&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+## 💼 O que eu tenho feito ultimamente?
+
+- Construção de **motores de paginação por cursor** com suporte a ordenações complexas e tokens seguros.
+- Geração de relatórios **on-demand** com manipulação massiva de dados e stream de Excel.
+- Automatização de processos financeiros e **integração com adquirentes** e sistemas bancários.
+- Orquestração de **arquiteturas serverless** com AWS Lambda, Redis e MySQL distribuído.
+- Criação de **adapters genéricos** e sistemas flexíveis com TypeScript avançado e bastante tipagem inteligente.
+- E claro: lidando com bugs cabeludos e APIs temperamentais, como todo dev raiz. 🧠🧯
+
+---
+
+## 🧰 Tecnologias:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,adonis,mysql,mongodb,redis,docker )](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats (agora com repositórios privados, bebê!)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rfnunes01&show_icons=true&theme=dracula&count_private=true" width="100%" alt="GitHub Stats" />
+  <br /> <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfnunes01&layout=compact&theme=dracula" width="100%" alt="Top Langs" />
+  <br /> <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rfnunes01&theme=dracula&layout=compact" width="100%" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Bora trocar uma ideia?
+
+Me chama no [LinkedIn](https://www.linkedin.com/in/richael-nunes-05abb214b), [Whatsapp](https://api.whatsapp.com/send?phone=5514998250121) ou aqui mesmo no GitHub. Se tiver um projeto massa ou quiser só filosofar sobre arquitetura escalável, tô dentro!
+
+---
+
+> “Código bom é aquele que você entende seis meses depois sem precisar xingar o dev. Principalmente se o dev era você.” — Eu mesmo, em produção.
