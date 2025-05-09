@@ -55,7 +55,7 @@ Ah, e sim, boto a mão até no Markdown, no bash, no webpack quebrando, e até n
 
 ## 📫 Bora trocar uma ideia?
 
-Me chama no [LinkedIn](https://www.linkedin.com/in/richael-nunes-05abb214b), [Whatsapp](https://api.whatsapp.com/send?phone=5514998250121) ou aqui mesmo no GitHub. Se tiver um projeto massa ou quiser só filosofar sobre arquitetura escalável, tô dentro!
+Me chama no [LinkedIn](https://www.linkedin.com/in/richael-nunes-05abb214b), [Whatsapp](https://wa.me/5514998250121) ou aqui mesmo no GitHub. Se tiver um projeto massa ou quiser só filosofar sobre arquitetura escalável, tô dentro!
 
 ---
 
